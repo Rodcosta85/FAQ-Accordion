@@ -1,0 +1,20 @@
+@media (max-width: 375px) {
+    #mob-p-ins-two {
+        color: var(--grayish-purple);
+        font-size: 14px;
+        width: 279px;
+        height: 126px;
+        line-height: 150%;
+    }
+}
+
+@media (min-width: 375px) {
+    #mob-p-ins-two {
+        color: var(--grayish-purple);
+        font-size: 16px;
+        width: 520px;
+        height: 96px;
+        line-height: 150%;
+        margin: 24px 0 0 0;
+    }
+}
